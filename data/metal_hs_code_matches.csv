@@ -1,0 +1,34 @@
+metal,hs_code,form,use
+Copper,740311,Refined copper,"PCBs, wiring, connectors"
+Copper,740319,Refined copper,"PCBs, wiring, connectors"
+Copper,260300,Copper ores & concentrates,Raw material for refining
+Gold,261690,Gold ores and concentrates,Sourced for recovery
+Silver,710691,Unwrought silver,"Solder, contacts, switches"
+Tin,800110,Refined tin,Lead-free solder
+Tin,260900,Tin ores and concentrates,Raw form
+Tantalum,810330,Tantalum and articles,Capacitors (high-performance)
+Tantalum,261590,Tantalum ores and concentrates,"Raw material (e.g., coltan)"
+Tungsten,810110,Tungsten and articles,"Heat sinks, shielding"
+Tungsten,261100,Tungsten ores and concentrates,Raw form
+Cobalt,810520,"Cobalt (unwrought, intermediate)",Li-ion battery cathodes
+Cobalt,260500,Cobalt ores and concentrates,Raw form
+Lithium,283691,Lithium carbonate/hydroxide,Battery electrolytes and cathodes
+Lithium,253090,Lithium ores and concentrates,From spodumene/brine
+Nickel,750210,Refined nickel,"Battery cathodes, solder alloys"
+Nickel,260400,Nickel ores and concentrates,Raw form
+Aluminum,760110,Unwrought aluminum,"Casings, heatsinks, PCBs"
+Aluminum,260600,Aluminum ores (bauxite),Source for refining
+Lead,800110,Refined tin,Lead-free solder
+Lead,780110,Refined lead,"Batteries, solder (legacy)"
+Lead,260700,Lead ores and concentrates,Raw material
+Zinc,790111,Zinc (unwrought),"Galvanization, solder, casings"
+Zinc,260800,Zinc ores and concentrates,Raw form
+Indium,811292,Indium (unwrought),"LCDs, touchscreens, semiconductors"
+Gallium,811292,Gallium (unwrought),"Semiconductors (GaAs, GaN)"
+Germanium,811292,Germanium (unwrought),"Photodetectors, fiber optics"
+Antimony,811010,Refined antimony,Flame retardants in PCBs
+Antimony,261710,Antimony ores and concentrates,Raw form
+Graphite,250410,Natural graphite,Anode in Li-ion batteries
+Material,260300,Copper ores & concentrates,Raw material for refining
+Material,261590,Tantalum ores and concentrates,"Raw material (e.g., coltan)"
+Material,260700,Lead ores and concentrates,Raw material

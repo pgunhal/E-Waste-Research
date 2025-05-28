@@ -1,0 +1,63 @@
+Mineral/Metal,Form,Electronics Use,HS Code
+Copper,Refined copper,"PCBs, wiring, connectors",740311
+Copper,Refined copper,"PCBs, wiring, connectors",740319
+Copper,Copper ores & concentrates,Raw material for refining,260300
+Gold,Unwrought/semi-manufactured,"High-end connectors, bonding wires",710812
+Gold,Gold ores and concentrates,Sourced for recovery,261690
+Silver,Unwrought silver,"Solder, contacts, switches",710691
+Tin,Refined tin,Lead-free solder,800110
+Tin,Tin ores and concentrates,Raw form,260900
+Tantalum,Tantalum and articles,Capacitors (high-performance),810330
+Tantalum,Tantalum ores and concentrates,"Raw material (e.g., coltan)",261590
+Tungsten,Tungsten and articles,"Heat sinks, shielding",810110
+Tungsten,Tungsten ores and concentrates,Raw form,261100
+Cobalt,"Cobalt (unwrought, intermediate)",Li-ion battery cathodes,810520
+Cobalt,Cobalt ores and concentrates,Raw form,260500
+Lithium,Lithium carbonate/hydroxide,Battery electrolytes and cathodes,283691
+Lithium,Lithium ores and concentrates,From spodumene/brine,253090
+Nickel,Refined nickel,"Battery cathodes, solder alloys",750210
+Nickel,Nickel ores and concentrates,Raw form,260400
+Rare Earths (REEs),Rare-earth oxides,"Magnets, phosphors, lasers, capacitors",280530
+Rare Earths (REEs),Other rare-earth compounds,"Magnets, phosphors, lasers, capacitors",280590
+Rare Earths (REEs),Mixed rare-earth oxides,"Magnets, phosphors, lasers, capacitors",284610
+Rare Earths (REEs),Other REE compounds,"Magnets, phosphors, lasers, capacitors",284690
+Aluminum,Unwrought aluminum,"Casings, heatsinks, PCBs",760110
+Aluminum,Aluminum ores (bauxite),Source for refining,260600
+Lead,Refined lead,"Batteries, solder (legacy)",780110
+Lead,Lead ores and concentrates,Raw material,260700
+Zinc,Zinc (unwrought),"Galvanization, solder, casings",790111
+Zinc,Zinc ores and concentrates,Raw form,260800
+Indium,Indium (unwrought),"LCDs, touchscreens, semiconductors",811292
+Gallium,Gallium (unwrought),"Semiconductors (GaAs, GaN)",811292
+Germanium,Germanium (unwrought),"Photodetectors, fiber optics",811292
+Antimony,Refined antimony,Flame retardants in PCBs,811010
+Antimony,Antimony ores and concentrates,Raw form,261710
+Graphite,Natural graphite,Anode in Li-ion batteries,250410
+,,,
+Refining ,,,
+Material,HS Code,Description,
+Copper,740311,"Refined copper, cathodes and sections of cathodes",
+Copper,740819,Copper wire,
+Aluminum,760110,"Aluminum, unwrought, not alloyed",
+Aluminum,760521,Aluminum wire,
+Tin,800110,"Tin, not alloyed, unwrought",
+Nickel,750210,"Nickel, unwrought, not alloyed",
+Tantalum,810330,"Tantalum, unwrought or powder",
+Lithium,283691,Lithium carbonate,
+Cobalt,810520,"Cobalt, unwrought or powder",
+Gold,710812,"Gold, unwrought, for non-monetary use",
+Silver,710691,"Silver, unwrought",
+Rare Earth Elements,280530,"Rare-earth metals, scandium and yttrium, including mixtures",
+,,,
+Ore Extraction,,,
+Material,HS Code,Description,
+Copper,260300,Copper ores and concentrates,
+Aluminum (Bauxite),260600,Aluminum ores and concentrates (including bauxite),
+Tin,260900,Tin ores and concentrates,
+Nickel,260400,Nickel ores and concentrates,
+Tantalum,261590,"Niobium, tantalum, vanadium or zirconium ores and concentrates",
+Lithium,261510,Zirconium ores and concentrates (used as proxy for lithium-bearing ores),
+Cobalt,260500,Cobalt ores and concentrates,
+Gold,261690,Precious metal ores and concentrates (incl. gold),
+Silver,261610,Silver ores and concentrates,
+Rare Earth Elements,253090,"Minerals containing REEs (e.g., monazite, bastnaesite)",

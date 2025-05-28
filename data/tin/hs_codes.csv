@@ -1,0 +1,15 @@
+metal,hs_code,description
+tin,260900,Tin ores and concentrates
+tin,721011,"Iron or non-alloy steel: flat-rolled, width 600mm or more, plated or coated with tin, thickness of 0.5mm or more"
+tin,721012,"Iron or non-alloy steel: flat-rolled, width 600mm or more, plated or coated with tin, thickness of less than 0.5mm"
+tin,721210,"Iron or non-alloy steel: flat-rolled, width less than 600mm, plated or coated with tin"
+tin,721250,"Iron or non-alloy steel: flat-rolled, width less than 600mm, plated or coated, (excluding tin, zinc or plastic)"
+tin,740322,Copper: copper-tin base alloys (bronze) unwrought
+tin,740931,"Copper: strip, of a thickness exceeding 0.15mm, of copper-tin base alloys (bronze), in coils"
+tin,740939,"Copper: plates and sheets, of a thickness exceeding 0.15mm, of copper-tin base alloys, not in coils"
+tin,740990,"Copper: plates, sheets and strip, of a thickness exceeding 0.15mm, of copper alloys (other than copper-zinc base alloys, copper-tin base alloys, copper-nickel base alloys or copper-nickel-zinc base alloys)"
+tin,800110,"Tin: unwrought, not alloyed"
+tin,800120,"Tin: unwrought, alloys"
+tin,800200,Tin: waste and scrap
+tin,800300,"Tin: bars, rods, profiles and wire"
+tin,800700,Tin: articles n.e.c. in chapter 80
