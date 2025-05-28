@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_2964abd2d0bf77d63f2ca4c8c8b56245 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_2964abd2d0bf77d63f2ca4c8c8b56245" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_2964abd2d0bf77d63f2ca4c8c8b56245 = L.map(
+                "map_2964abd2d0bf77d63f2ca4c8c8b56245",
+                {
+                    center: [20.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 2,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_0535e02515d3317d1a6405728cac953c = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_0535e02515d3317d1a6405728cac953c.addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+            var circle_marker_2b9fc6f93627709345c53738c7cda20c = L.circleMarker(
+                [35.8617, 104.1954],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 24.132, "stroke": true, "weight": 3}
+            ).addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+        var popup_81aff6eaca6e377248e707ab8e2c3d04 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1239fc43a622fa7310e167a73a70245b = $(`<div id="html_1239fc43a622fa7310e167a73a70245b" style="width: 100.0%; height: 100.0%;">China E-Waste: 12066.0M kg</div>`)[0];
+                popup_81aff6eaca6e377248e707ab8e2c3d04.setContent(html_1239fc43a622fa7310e167a73a70245b);
+            
+        
+
+        circle_marker_2b9fc6f93627709345c53738c7cda20c.bindPopup(popup_81aff6eaca6e377248e707ab8e2c3d04)
+        ;
+
+        
+    
+    
+            var circle_marker_34d41cd065c4cb3a8dc54a116b386ead = L.circleMarker(
+                [37.0902, -95.7129],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 17.802, "stroke": true, "weight": 3}
+            ).addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+        var popup_bfb291460fcbde6632d319709333293e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_603c006f3029393e626a6238b7c4d7b6 = $(`<div id="html_603c006f3029393e626a6238b7c4d7b6" style="width: 100.0%; height: 100.0%;">United States E-Waste: 8901.0M kg</div>`)[0];
+                popup_bfb291460fcbde6632d319709333293e.setContent(html_603c006f3029393e626a6238b7c4d7b6);
+            
+        
+
+        circle_marker_34d41cd065c4cb3a8dc54a116b386ead.bindPopup(popup_bfb291460fcbde6632d319709333293e)
+        ;
+
+        
+    
+    
+            var circle_marker_99e69e4208a0810f61ce144a8a05ee81 = L.circleMarker(
+                [36.2048, 138.2529],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.276, "stroke": true, "weight": 3}
+            ).addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+        var popup_4de4c647de1a511ee22c3cd1dcfa55d0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_51c186d995bc5820641dba8f473d9cfb = $(`<div id="html_51c186d995bc5820641dba8f473d9cfb" style="width: 100.0%; height: 100.0%;">Japan E-Waste: 2638.0M kg</div>`)[0];
+                popup_4de4c647de1a511ee22c3cd1dcfa55d0.setContent(html_51c186d995bc5820641dba8f473d9cfb);
+            
+        
+
+        circle_marker_99e69e4208a0810f61ce144a8a05ee81.bindPopup(popup_4de4c647de1a511ee22c3cd1dcfa55d0)
+        ;
+
+        
+    
+    
+            var circle_marker_eb628d3b381367e8a556dd32a014ed78 = L.circleMarker(
+                [20.5937, 78.9629],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8.274, "stroke": true, "weight": 3}
+            ).addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+        var popup_19f0a6689c8fb8dfc6287d38e8fabe36 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a0f4b336ed74d5692f59d96b890fc531 = $(`<div id="html_a0f4b336ed74d5692f59d96b890fc531" style="width: 100.0%; height: 100.0%;">India E-Waste: 4137.0M kg</div>`)[0];
+                popup_19f0a6689c8fb8dfc6287d38e8fabe36.setContent(html_a0f4b336ed74d5692f59d96b890fc531);
+            
+        
+
+        circle_marker_eb628d3b381367e8a556dd32a014ed78.bindPopup(popup_19f0a6689c8fb8dfc6287d38e8fabe36)
+        ;
+
+        
+    
+    
+            var circle_marker_c11f1883ca6dd8988e27a15ce65fc54c = L.circleMarker(
+                [51.1657, 10.4515],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.534, "stroke": true, "weight": 3}
+            ).addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+        var popup_88883fb3b7579ffcb1eb04800dae4d7e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_01a93641c2ad739c06d14710e500253d = $(`<div id="html_01a93641c2ad739c06d14710e500253d" style="width: 100.0%; height: 100.0%;">Germany E-Waste: 1767.0M kg</div>`)[0];
+                popup_88883fb3b7579ffcb1eb04800dae4d7e.setContent(html_01a93641c2ad739c06d14710e500253d);
+            
+        
+
+        circle_marker_c11f1883ca6dd8988e27a15ce65fc54c.bindPopup(popup_88883fb3b7579ffcb1eb04800dae4d7e)
+        ;
+
+        
+    
+    
+            var circle_marker_90ff2f1fdf4207059c1d05053aa0cd86 = L.circleMarker(
+                [-14.235, -51.9253],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.886, "stroke": true, "weight": 3}
+            ).addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+        var popup_6da00826db35a5e691de0aea3ca1ae6a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fd96cc477b64d7919b78a1f23e50e54e = $(`<div id="html_fd96cc477b64d7919b78a1f23e50e54e" style="width: 100.0%; height: 100.0%;">Brazil E-Waste: 2443.0M kg</div>`)[0];
+                popup_6da00826db35a5e691de0aea3ca1ae6a.setContent(html_fd96cc477b64d7919b78a1f23e50e54e);
+            
+        
+
+        circle_marker_90ff2f1fdf4207059c1d05053aa0cd86.bindPopup(popup_6da00826db35a5e691de0aea3ca1ae6a)
+        ;
+
+        
+    
+    
+            var circle_marker_6ac6fe99d3b273e533a1e9bcfce2a4a9 = L.circleMarker(
+                [-0.7893, 113.9213],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.772, "stroke": true, "weight": 3}
+            ).addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+        var popup_4f2769a67704a8cc8c2e2cce2851a496 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_90c2406f462d73b8dd05dd671f2e1903 = $(`<div id="html_90c2406f462d73b8dd05dd671f2e1903" style="width: 100.0%; height: 100.0%;">Indonesia E-Waste: 1886.0M kg</div>`)[0];
+                popup_4f2769a67704a8cc8c2e2cce2851a496.setContent(html_90c2406f462d73b8dd05dd671f2e1903);
+            
+        
+
+        circle_marker_6ac6fe99d3b273e533a1e9bcfce2a4a9.bindPopup(popup_4f2769a67704a8cc8c2e2cce2851a496)
+        ;
+
+        
+    
+    
+            var circle_marker_13bdc43a800d6d6c505bd69ddaed5a84 = L.circleMarker(
+                [35.8617, 104.1954],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13.618, "stroke": true, "weight": 3}
+            ).addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+        var popup_2dad6a20358d18d2d32d382d6b2a2531 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a8e6b47cedd9e2dc38fb506c9569b558 = $(`<div id="html_a8e6b47cedd9e2dc38fb506c9569b558" style="width: 100.0%; height: 100.0%;">China Mining: 13618 kt</div>`)[0];
+                popup_2dad6a20358d18d2d32d382d6b2a2531.setContent(html_a8e6b47cedd9e2dc38fb506c9569b558);
+            
+        
+
+        circle_marker_13bdc43a800d6d6c505bd69ddaed5a84.bindPopup(popup_2dad6a20358d18d2d32d382d6b2a2531)
+        ;
+
+        
+    
+    
+            var circle_marker_ec934d4971a2eb7fb4cf5e0e56197166 = L.circleMarker(
+                [37.0902, -95.7129],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.223, "stroke": true, "weight": 3}
+            ).addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+        var popup_6dc6a3c58b3dfee992defe92a1d23316 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_377aba30c93a053abf26ceb6f95d10d6 = $(`<div id="html_377aba30c93a053abf26ceb6f95d10d6" style="width: 100.0%; height: 100.0%;">United States Mining: 1223 kt</div>`)[0];
+                popup_6dc6a3c58b3dfee992defe92a1d23316.setContent(html_377aba30c93a053abf26ceb6f95d10d6);
+            
+        
+
+        circle_marker_ec934d4971a2eb7fb4cf5e0e56197166.bindPopup(popup_6dc6a3c58b3dfee992defe92a1d23316)
+        ;
+
+        
+    
+    
+            var circle_marker_99e43e4b82f078983de872f54c3ae6e9 = L.circleMarker(
+                [36.2048, 138.2529],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.505, "stroke": true, "weight": 3}
+            ).addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+        var popup_4279daff4370f828c049e0928b1bafae = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2b835b479ca357b52d560d615f0f1431 = $(`<div id="html_2b835b479ca357b52d560d615f0f1431" style="width: 100.0%; height: 100.0%;">Japan Mining: 1505 kt</div>`)[0];
+                popup_4279daff4370f828c049e0928b1bafae.setContent(html_2b835b479ca357b52d560d615f0f1431);
+            
+        
+
+        circle_marker_99e43e4b82f078983de872f54c3ae6e9.bindPopup(popup_4279daff4370f828c049e0928b1bafae)
+        ;
+
+        
+    
+    
+            var circle_marker_0ad687012a547dbb7b38a04ef28f7b7c = L.circleMarker(
+                [20.5937, 78.9629],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 0.549, "stroke": true, "weight": 3}
+            ).addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+        var popup_b047bbefa7ca442d08c77ebbf7356438 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_497d5d450d7d0030fef665cee760fb10 = $(`<div id="html_497d5d450d7d0030fef665cee760fb10" style="width: 100.0%; height: 100.0%;">India Mining: 549 kt</div>`)[0];
+                popup_b047bbefa7ca442d08c77ebbf7356438.setContent(html_497d5d450d7d0030fef665cee760fb10);
+            
+        
+
+        circle_marker_0ad687012a547dbb7b38a04ef28f7b7c.bindPopup(popup_b047bbefa7ca442d08c77ebbf7356438)
+        ;
+
+        
+    
+    
+            var circle_marker_72297ebb2b9b750d7620b749b7804387 = L.circleMarker(
+                [-0.7893, 113.9213],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.807, "stroke": true, "weight": 3}
+            ).addTo(map_2964abd2d0bf77d63f2ca4c8c8b56245);
+        
+    
+        var popup_9c6a15a8a4c846f10dfee67a97347d60 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_61113ef3014ba39e4252e90058eab9a6 = $(`<div id="html_61113ef3014ba39e4252e90058eab9a6" style="width: 100.0%; height: 100.0%;">Indonesia Mining: 1807 kt</div>`)[0];
+                popup_9c6a15a8a4c846f10dfee67a97347d60.setContent(html_61113ef3014ba39e4252e90058eab9a6);
+            
+        
+
+        circle_marker_72297ebb2b9b750d7620b749b7804387.bindPopup(popup_9c6a15a8a4c846f10dfee67a97347d60)
+        ;
+
+        
+    
+</script>
+</html>

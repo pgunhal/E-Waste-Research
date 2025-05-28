@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_6e930382ccde2d93de699b0122b0cafa {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_6e930382ccde2d93de699b0122b0cafa" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_6e930382ccde2d93de699b0122b0cafa = L.map(
+                "map_6e930382ccde2d93de699b0122b0cafa",
+                {
+                    center: [20.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 2,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_12ea2fba96c7a259d362c694a95aa605 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_12ea2fba96c7a259d362c694a95aa605.addTo(map_6e930382ccde2d93de699b0122b0cafa);
+        
+    
+            var circle_marker_f18c07819443bc0805c27cc8aa9efa4c = L.circleMarker(
+                [35.8617, 104.1954],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 12, "stroke": true, "weight": 3}
+            ).addTo(map_6e930382ccde2d93de699b0122b0cafa);
+        
+    
+        var popup_3482932ecaae384fcec8e6452846c3ab = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_61ffda3a72f6d2405d9bb08fd7879c78 = $(`<div id="html_61ffda3a72f6d2405d9bb08fd7879c78" style="width: 100.0%; height: 100.0%;">         <b>China</b><br>         <b>Supplies:</b> Cobalt - Refining, Copper - Mining, Copper - Refining, Lithium - Mining<br>         <b>Top Supplier Count:</b> 4 times         </div>`)[0];
+                popup_3482932ecaae384fcec8e6452846c3ab.setContent(html_61ffda3a72f6d2405d9bb08fd7879c78);
+            
+        
+
+        circle_marker_f18c07819443bc0805c27cc8aa9efa4c.bindPopup(popup_3482932ecaae384fcec8e6452846c3ab)
+        ;
+
+        
+    
+    
+            var circle_marker_96ae56cfe55fafeff7e170f45435e967 = L.circleMarker(
+                [61.524, 105.3188],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 12, "stroke": true, "weight": 3}
+            ).addTo(map_6e930382ccde2d93de699b0122b0cafa);
+        
+    
+        var popup_cd26f24bb33af4f25c8022b5d9b693b3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_75240ff77c9d8aaf325724106557af2e = $(`<div id="html_75240ff77c9d8aaf325724106557af2e" style="width: 100.0%; height: 100.0%;">         <b>Russia</b><br>         <b>Supplies:</b> Nickel - Mining, Cobalt - Mining, Copper - Mining, Copper - Refining<br>         <b>Top Supplier Count:</b> 4 times         </div>`)[0];
+                popup_cd26f24bb33af4f25c8022b5d9b693b3.setContent(html_75240ff77c9d8aaf325724106557af2e);
+            
+        
+
+        circle_marker_96ae56cfe55fafeff7e170f45435e967.bindPopup(popup_cd26f24bb33af4f25c8022b5d9b693b3)
+        ;
+
+        
+    
+    
+            var circle_marker_4f33b4afc3ed91f14ba94d8dfbf55cae = L.circleMarker(
+                [-35.6751, -71.543],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 3}
+            ).addTo(map_6e930382ccde2d93de699b0122b0cafa);
+        
+    
+        var popup_06f8d3bcad198ed0d118f2b7774c1595 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_90bc4b8c91127a3d7f28a8cbffc0ce40 = $(`<div id="html_90bc4b8c91127a3d7f28a8cbffc0ce40" style="width: 100.0%; height: 100.0%;">         <b>Chile</b><br>         <b>Supplies:</b> Copper - Mining, Copper - Refining, Lithium - Mining<br>         <b>Top Supplier Count:</b> 3 times         </div>`)[0];
+                popup_06f8d3bcad198ed0d118f2b7774c1595.setContent(html_90bc4b8c91127a3d7f28a8cbffc0ce40);
+            
+        
+
+        circle_marker_4f33b4afc3ed91f14ba94d8dfbf55cae.bindPopup(popup_06f8d3bcad198ed0d118f2b7774c1595)
+        ;
+
+        
+    
+    
+            var circle_marker_b01140f7f027b332da24f0ae52ac76e3 = L.circleMarker(
+                [-0.7893, 113.9213],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 3}
+            ).addTo(map_6e930382ccde2d93de699b0122b0cafa);
+        
+    
+        var popup_404d501ed06eb575e49205f3e60c307c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e1d15707386aa0d544f3b98849528146 = $(`<div id="html_e1d15707386aa0d544f3b98849528146" style="width: 100.0%; height: 100.0%;">         <b>Indonesia</b><br>         <b>Supplies:</b> Cobalt - Refining, Nickel - Mining, Cobalt - Mining<br>         <b>Top Supplier Count:</b> 3 times         </div>`)[0];
+                popup_404d501ed06eb575e49205f3e60c307c.setContent(html_e1d15707386aa0d544f3b98849528146);
+            
+        
+
+        circle_marker_b01140f7f027b332da24f0ae52ac76e3.bindPopup(popup_404d501ed06eb575e49205f3e60c307c)
+        ;
+
+        
+    
+    
+            var circle_marker_270912d1f5c691b49aae94dbc64b5ff3 = L.circleMarker(
+                [-4.0383, 21.7587],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_6e930382ccde2d93de699b0122b0cafa);
+        
+    
+        var popup_bbca4202f751f197fc79242fc504b811 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_5e2103af742c68b2812a2e0d5d88c11e = $(`<div id="html_5e2103af742c68b2812a2e0d5d88c11e" style="width: 100.0%; height: 100.0%;">         <b>Dem. Rep. Congo</b><br>         <b>Supplies:</b> Cobalt - Mining, Copper - Mining<br>         <b>Top Supplier Count:</b> 2 times         </div>`)[0];
+                popup_bbca4202f751f197fc79242fc504b811.setContent(html_5e2103af742c68b2812a2e0d5d88c11e);
+            
+        
+
+        circle_marker_270912d1f5c691b49aae94dbc64b5ff3.bindPopup(popup_bbca4202f751f197fc79242fc504b811)
+        ;
+
+        
+    
+    
+            var circle_marker_7e1c55b9fce932cb40195ace7ad2b2fb = L.circleMarker(
+                [-25.2744, 133.7751],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_6e930382ccde2d93de699b0122b0cafa);
+        
+    
+        var popup_b10a4cecd08781d7dfd41a2f4b56c30b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a4707de088464e5c033cb74b85bc2230 = $(`<div id="html_a4707de088464e5c033cb74b85bc2230" style="width: 100.0%; height: 100.0%;">         <b>Australia</b><br>         <b>Supplies:</b> Cobalt - Mining, Lithium - Mining<br>         <b>Top Supplier Count:</b> 2 times         </div>`)[0];
+                popup_b10a4cecd08781d7dfd41a2f4b56c30b.setContent(html_a4707de088464e5c033cb74b85bc2230);
+            
+        
+
+        circle_marker_7e1c55b9fce932cb40195ace7ad2b2fb.bindPopup(popup_b10a4cecd08781d7dfd41a2f4b56c30b)
+        ;
+
+        
+    
+    
+            var circle_marker_14b4a79859ed0aeb0ee1b0772f7d4f69 = L.circleMarker(
+                [56.1304, -106.3468],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_6e930382ccde2d93de699b0122b0cafa);
+        
+    
+        var popup_ff80f89b97807aa8a6fc38322934afb8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c316b991d0a1ba1099ebecd6aebd0b4b = $(`<div id="html_c316b991d0a1ba1099ebecd6aebd0b4b" style="width: 100.0%; height: 100.0%;">         <b>Canada</b><br>         <b>Supplies:</b> Cobalt - Refining, Nickel - Mining<br>         <b>Top Supplier Count:</b> 2 times         </div>`)[0];
+                popup_ff80f89b97807aa8a6fc38322934afb8.setContent(html_c316b991d0a1ba1099ebecd6aebd0b4b);
+            
+        
+
+        circle_marker_14b4a79859ed0aeb0ee1b0772f7d4f69.bindPopup(popup_ff80f89b97807aa8a6fc38322934afb8)
+        ;
+
+        
+    
+    
+            var circle_marker_69acd9cb17f0d868c5d3ebf98c614395 = L.circleMarker(
+                [-9.19, -75.0152],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
+            ).addTo(map_6e930382ccde2d93de699b0122b0cafa);
+        
+    
+        var popup_9ecf09b2159705a3ad903f494e35d7f4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d1fd6caa83a84d3c1f78080ca64a767d = $(`<div id="html_d1fd6caa83a84d3c1f78080ca64a767d" style="width: 100.0%; height: 100.0%;">         <b>Peru</b><br>         <b>Supplies:</b> Copper - Mining<br>         <b>Top Supplier Count:</b> 1 times         </div>`)[0];
+                popup_9ecf09b2159705a3ad903f494e35d7f4.setContent(html_d1fd6caa83a84d3c1f78080ca64a767d);
+            
+        
+
+        circle_marker_69acd9cb17f0d868c5d3ebf98c614395.bindPopup(popup_9ecf09b2159705a3ad903f494e35d7f4)
+        ;
+
+        
+    
+</script>
+</html>
