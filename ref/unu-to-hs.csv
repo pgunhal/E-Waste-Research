@@ -1,0 +1,257 @@
+UNU-KEY,UNU Key Description,HS,HS Description
+0101,Professional Heating & Ventilation (excl. cooling equipment),845110,Dry-cleaning machines
+0101,Professional Heating & Ventilation (excl. cooling equipment),845130,Ironing machines and presses including fusing presses
+0102,Dishwashers,842211,Dish washing machines (domestic)
+0103,"Kitchen (f.i. large furnaces, ovens, cooking equipment)",851660,"Electric cooking, grilling & roasting equipment nes"
+0104,Washing Machines (incl. combined dryers),845011,"Automatic washing machines, of a dry capacity < 10 kg"
+0104,Washing Machines (incl. combined dryers),845012,"Washing machines nes, capacity <10 kg, built-in drier"
+0104,Washing Machines (incl. combined dryers),845019,"Household/laundry-type washing machines <10 kg, nes"
+0104,Washing Machines (incl. combined dryers),845020,"Household or laundry-type washing machines, cap >10kg"
+0105,"Dryers (wash dryers, centrifuges)",842112,"Clothes-dryers, centrifugal"
+0105,"Dryers (wash dryers, centrifuges)",845121,"Drying machines, capacity <10 kg, except washer-drier"
+0105,"Dryers (wash dryers, centrifuges)",845129,"Drying machines, nes"
+0106,"Household Heating & Ventilation (f.i. hoods, ventilators, space heaters)",841460,Ventilating hoods having a maximum width < 120 cm
+0106,"Household Heating & Ventilation (f.i. hoods, ventilators, space heaters)",851621,Electric storage heating radiators
+0106,"Household Heating & Ventilation (f.i. hoods, ventilators, space heaters)",851629,Electric space heating nes and soil heating apparatus
+0108,Fridges (incl. combi-fridges),841821,"Refrigerators, household compression type"
+0108,Fridges (incl. combi-fridges),841822,"Refrigerators, household absorption type, electric"
+0108,Fridges (incl. combi-fridges),841829,"Refrigerators, household type, including non-elecctri"
+0109,Freezers,841830,"Freezers of the chest type, < 800 litre capacity"
+0109,Freezers,841840,"Freezers of the upright type, < 900 litre capacity"
+0111,Air Conditioners (household installed and portable),841510,"Air conditioners window/wall types, self-contained"
+0111,Air Conditioners (household installed and portable),841581,Air conditioners nes with reverse cycle refrigeration
+0111,Air Conditioners (household installed and portable),841582,"Air conditioners nes, with refrigerating unit"
+0112,"Other Cooling (f.i. dehumidifiers, heat pump dryers)",841861,Compression refrigeration equipment with heat exchang
+0113,"Professional Cooling (f.i. large airconditioners, cooling displays)",841583,"Air conditioners nes, without refrigerating unit"
+0113,"Professional Cooling (f.i. large airconditioners, cooling displays)",841850,Refrigerator/freezer chests/cabinets/showcases
+0113,"Professional Cooling (f.i. large airconditioners, cooling displays)",841869,Refrigerating or freezing equipment nes
+0114,"Microwaves (incl. combined, excl. grills)",851650,Microwave ovens
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",630110,Electric blankets of textile material
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",841451,"Table, window, ceiling fans, electric motor <125 watts"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",842310,"Personal weighing machines, baby & household scales"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",845210,Household type sewing machines
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",850930,Domestic kitchen waste disposers
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",850980,"Domestic appliances, with electric motor, nes"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",851640,Electric smoothing irons
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910111,"Wrist-watch, precious metal, battery, with hands"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910112,"Wrist-watch, precious metal, battery, opto/electric"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910119,"Wrist-watch, precious metal, battery, other"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910191,"Pocket-watch, precious-metal case, battery"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910211,"Wrist-watch, base-metal case, battery, with hands"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910212,"Wrist-watch, base-metal case, battery, opto/electric"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910219,"Wrist-watch, base-metal case, battery, other"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910291,"Pocket-watch, base-metal case, battery"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910310,"Clocks with watch movements, battery (except vehicle)"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910390,"Clocks with watch movements, nes (except vehicle)"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910511,"Alarm clocks, battery or mains powered"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910521,"Wall clocks, battery or mains powered"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910591,"Clocks, nes, battery or mains powered"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910700,Time switches
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910811,"Assembled battery watch movement, mechanical display"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910812,"Assembled battery watch movement,opto-electric displa"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910819,"Assembled battery watch movement, nes"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910820,"Watch movements, complete and assembled, auto-winding"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910890,"Watch movements, complete & assembled (excl. electrically operated), other  ..."
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910911,"Clock movements, complete and assembled, battery/alar"
+0201,"Other Small Household (f.i. small ventilators, irons, clocks, adapters)",910919,"Clock movements, complete and assembled, battery nes"
+0202,"Food (f.i. toaster, grills, food processing, frying pans)",850940,"Domestic food grinders, mixers, juice extractors"
+0202,"Food (f.i. toaster, grills, food processing, frying pans)",851672,"Electric toasters, domestic"
+0202,"Food (f.i. toaster, grills, food processing, frying pans)",851679,"Electro-thermic appliances, domestic, nes"
+0203,"Hot Water (f.i. coffee, tea, water cookers)",851610,"Electric instant, storage and immersion water heaters"
+0203,"Hot Water (f.i. coffee, tea, water cookers)",851671,"Electric coffee or tea makers, domestic"
+0204,Vacuum Cleaners (excl. professional),850811,"Vacuum cleaners, with self-contained electric motor,  Of a power not > 1,500 W & having a dust bag/other receptacle capacity not > 20 l"
+0204,Vacuum Cleaners (excl. professional),850819,"Vacuum cleaners, with self-contained electric motor, other than of 8508.11"
+0204,Vacuum Cleaners (excl. professional),850860,"Other vacuum cleaners,not with self-contained electric motor"
+0204,Vacuum Cleaners (excl. professional),850910,Domestic vacuum cleaners
+0205,"Personal Care (f.i. tooth brushes, hair dryers, razors)",851010,"Shavers, with self-contained electric motor"
+0205,"Personal Care (f.i. tooth brushes, hair dryers, razors)",851020,"Hair clippers, with self-contained electric motor"
+0205,"Personal Care (f.i. tooth brushes, hair dryers, razors)",851030,Hair-removing appl w/sel
+0205,"Personal Care (f.i. tooth brushes, hair dryers, razors)",851631,Electric hair dryers
+0205,"Personal Care (f.i. tooth brushes, hair dryers, razors)",851632,"Electro-thermic hairdressing apparatus, nes"
+0205,"Personal Care (f.i. tooth brushes, hair dryers, razors)",851633,Electro-thermic hand drying apparatus
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",846900,Typewriters other than printers of heading 84.43; word-processing machines.
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",846911,Word-processing machines
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",846912,Automatic typewriters
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",846920,"Typewriters,electric,nes"
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",846930,"Typewriters,non-electric"
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",847010,Electronic calculators operable with internal power
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",847021,"Electronic calculators, printing, external power"
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",847029,"Electronic calculators, non-printing, external power"
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",847110,Analogue or hybrid computers
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",847170,Storage units
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",847180,Units of auto data proce
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",847190,Automatic data processin
+0301,"Small IT (f.i. routers, mice, keyboards, external drives & accessoires)",854389,Electrical machines and
+0302,"Desktop PCs (excl. monitors, accessoires)",847141,Dig auto data proc w/cpu
+0302,"Desktop PCs (excl. monitors, accessoires)",847149,Dig auto data proc units
+0302,"Desktop PCs (excl. monitors, accessoires)",847150,Digital process units wh
+0303,Laptops (incl. tablets),847130,Portable digital data pr
+0304,"Printers (f.i. scanners, multifunctionals, faxes)",844331,"Machines which perform two/more of the functions of printing, copying/facsimile transmission, capable of connecting to an automatic data processing machine/to a network"
+0304,"Printers (f.i. scanners, multifunctionals, faxes)",844332,"Other printers, copying machines & facsimile machines, whether/not combined , exclud the ones which perform two/more of the functions of printing, copying/facsimile transmission; capable of connecting to an automatic data processing machine/to a network"
+0304,"Printers (f.i. scanners, multifunctionals, faxes)",851721,Facsimiles machines
+0304,"Printers (f.i. scanners, multifunctionals, faxes)",851722,Teleprinters
+0305,"Telecom (f.i. (cordless) phones, answering machines)",851711,"Line telephone sets,cord"
+0305,"Telecom (f.i. (cordless) phones, answering machines)",851718,"Other telephone sets, incl. telephones for cellular networks/for other wireless networks, other than 8517.11 & 8517.12"
+0305,"Telecom (f.i. (cordless) phones, answering machines)",851719,"Telephone sets, nes"
+0305,"Telecom (f.i. (cordless) phones, answering machines)",851730,Telephonic or telegraphic switching apparatus
+0305,"Telecom (f.i. (cordless) phones, answering machines)",851750,Apparatus for carrier-cu
+0305,"Telecom (f.i. (cordless) phones, answering machines)",851769,"Other apparatus for transmission/reception of voice, images/other data, incl. apparatus for communication in a wired/wireless network (such as a local/wide area network) , other than 8517.61 & 8517.62"
+0305,"Telecom (f.i. (cordless) phones, answering machines)",851780,Elect apparatus for line
+0305,"Telecom (f.i. (cordless) phones, answering machines)",852020,Telephone answering machines
+0305,"Telecom (f.i. (cordless) phones, answering machines)",852790,Radio reception apparatus nes
+0305,"Telecom (f.i. (cordless) phones, answering machines)",903040,"Gain, /distortion and crosstalk meters, etc"
+0306,"Mobile Phones (incl. smartphones, pagers)",851712,"Telephones for cellular networks/for other wireless networks, other than Line telephone sets with cordless handsets"
+0306,"Mobile Phones (incl. smartphones, pagers)",851761,"Base stations for transmission/reception of voice, images/other data, incl. apparatus for communication in a wired/wireless network (such as a local/wide area network)"
+0306,"Mobile Phones (incl. smartphones, pagers)",851950,Telephone answering machines
+0306,"Mobile Phones (incl. smartphones, pagers)",852520,"Transmit-receive apparatus for radio, TV, etc."
+0307,"Professional IT (f.i. servers, routers, data storage, copiers)",844312,"Sheet fed, office offset printers, sheet < 22x36 cm"
+0307,"Professional IT (f.i. servers, routers, data storage, copiers)",844339,"Other printers, copying machines & facsimile machines, whether/not combined , excl. 8443.31 & 8443.32"
+0307,"Professional IT (f.i. servers, routers, data storage, copiers)",847040,Accounting machines
+0307,"Professional IT (f.i. servers, routers, data storage, copiers)",847050,Cash registers
+0307,"Professional IT (f.i. servers, routers, data storage, copiers)",847090,"Postage franking, ticket-issuing machines, etc"
+0307,"Professional IT (f.i. servers, routers, data storage, copiers)",900911,"Electrostatic photo-copyers, direct process"
+0307,"Professional IT (f.i. servers, routers, data storage, copiers)",900912,"Electrostatic photo-copyers, indirect process"
+0307,"Professional IT (f.i. servers, routers, data storage, copiers)",900921,"Photo-copying equipment with an optical system, nes"
+0307,"Professional IT (f.i. servers, routers, data storage, copiers)",900922,"Contact type photo-copying apparatus,nes"
+0307,"Professional IT (f.i. servers, routers, data storage, copiers)",900930,Thermo-copying apparatus
+0308,Cathode Ray Tube Monitors,852821,Color video monitors
+0308,Cathode Ray Tube Monitors,852822,B & w video monitors
+0308,Cathode Ray Tube Monitors,852841,"Cathode-ray tube monitors , of a kind solely/principally used in an automatic data processing system of heading 84.71"
+0308,Cathode Ray Tube Monitors,852849,"Other cathode-ray tube monitors , not of a kind solely/principally used in an automatic data processing system of heading 84.71"
+0309,"Flat Display Panel Monitors (LCD, LED)",852851,"Other monitors, of a kind solely/principally used in an automatic data processing system of heading 84.71"
+0309,"Flat Display Panel Monitors (LCD, LED)",852859,"Other monitors, not of a kind solely/principally used in an automatic data processing system of heading 84.71"
+0309,"Flat Display Panel Monitors (LCD, LED)",853120,Indicator panels incorporating electronic displays
+0401,"Small Consumer Electronics (f.i. headphones, remote controls)",851810,Microphones and stands thereof
+0401,"Small Consumer Electronics (f.i. headphones, remote controls)",851830,"Headphones, earphones, combinations"
+0402,"Portable Audio & Video (f.i. MP3, e-readers, car navigation)",852712,Pocket-size radio-casset
+0402,"Portable Audio & Video (f.i. MP3, e-readers, car navigation)",852713,Radio apparatus w/sound
+0402,"Portable Audio & Video (f.i. MP3, e-readers, car navigation)",852719,"Radio receivers, portable, non-recording"
+0402,"Portable Audio & Video (f.i. MP3, e-readers, car navigation)",852731,"Radio-telephony receiver, with sound reproduce/record"
+0402,"Portable Audio & Video (f.i. MP3, e-readers, car navigation)",852732,"Radio-telephony etc receivers, nes"
+0402,"Portable Audio & Video (f.i. MP3, e-readers, car navigation)",852739,Radio-broadcast receivers nes
+0402,"Portable Audio & Video (f.i. MP3, e-readers, car navigation)",852791,"Other reception apparatus for radio-broadcasting, combined with sound recording/reproducing apparatus."
+0402,"Portable Audio & Video (f.i. MP3, e-readers, car navigation)",852792,"Other reception apparatus for radio-broadcasting, not combined with sound recording/reproducing apparatus but combined with a clock."
+0402,"Portable Audio & Video (f.i. MP3, e-readers, car navigation)",852799,"Other reception apparatus for radio-broadcasting, excl. 8527.91 & 8527.92"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",847210,Office duplicating machines
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",847230,Machinery for processing mail of all kinds
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",847290,"Office machines, nes"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851762,"Machines for the reception, conversion & transmission/regeneration of voice, images/other data, incl. switching & routing apparatus"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851840,Audio-frequency electric amplifiers
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851850,Electric sound amplifier sets
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851910,Coin or disc-operated record-players
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851920,"Apparatus operated by coins, banknotes, bank cards, tokens/by other means of payment"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851921,"Record-players without built-in loudspeaker, nes"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851929,"Record-players with loudspeakers, nes"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851930,Turntables (record-decks)
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851931,Turntables with automatic record changing mechanism
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851939,"Turntables, without record changers"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851940,Transcribing machines
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851981,"Other sound recording/reproducing apparatus, using magnetic, optical/semiconductor media, other than 8519.20, 8519.30, 8519.50"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851989,"Other sound recording/reproducing apparatus,  other n.e.s. in Ch. 85.19"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851992,Pocket-size cassette-pla
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851993,"Sound repr app, cassette"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",851999,"Sound reproducing apparatus, non-recording, nes"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",852010,Dictating machine requiring external power source
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",852032,Magnetic tape rec digita
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",852033,Magnetic tape rec casset
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",852039,"Non-cassette audio tape recorders, sound reproducing"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",852090,Audio recording equipment without sound reproduction
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",852721,"Radio receivers, external power,sound reproduce/recor"
+0403,"Music Instruments, Radio, HiFi (incl. audio sets)",852729,"Radio receivers, external power, not sound reproducer"
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",852110,"Video recording/reproducing apparatus, magnetic tape"
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",852190,Video record/reproduction apparatus not magnetic tape
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",852530,Television cameras
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",852560, Transmission apparatus for radio-broadcasting/televison incorporating reception apparatus
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",852830,Video projectors
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",852861,"Projectors, Of a kind solely/principally used in an automatic data processing system of heading 84.71"
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",852869,"Projectors, not of a kind solely/principally used in an automatic data processing system of heading 84.71"
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",852871,"Reception apparatus for televison, Not designed to incorporate a video display/screen"
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",900661,Photographic discharge lamp flashlight apparatus
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",900669,"Photographic flashlight apparatus, nes"
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",900711,Cinematographic cameras for film <16mm wide
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",900719,Cinematographic cameras for film >16mm wide
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",900720,Cinematographic projecto
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",900810,Slide projectors
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",900830,"Image projectors, except slide/microform"
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",900840,"Photographic enlargers and reducers, other than cine"
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",901010,Equipment for automatic development of photo film
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",901050,App & equip for ph labor
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",901060,Projection screens
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",903130,"Profile projectors, nes"
+0404,"Video (f.i. Video recorders, DVD, Blue Ray, set-top boxes)",903149,Optical instruments and
+0405,Speakers,851821,"Single loudspeakers, mounted in enclosure"
+0405,Speakers,851822,"Multiple loudspeakers, mounted in single enclosure"
+0406,"Cameras (f.i. camcorders, foto & digital still cameras)",852540,Still image video camara
+0406,"Cameras (f.i. camcorders, foto & digital still cameras)",852580," Television cameras, digital cameras & video camera recorders"
+0407,Cathode Ray Tube TVs,852812,Color television receive
+0407,Cathode Ray Tube TVs,852813,B & W television receive
+0407,Cathode Ray Tube TVs,852873,"Other reception apparatus for television, whether/not incorporating radio-broadcast receivers/sound/video recording/reproducing apparatus, black & white/other monochrome."
+0408,"Flat Display Panel TVs (LCD, LED, Plasma)",852872,"Other colour reception apparatus for television, whether/not incorporating radio-broadcast receivers/sound/video recording/reproducing apparatus,"
+0501,"Lamps (f.i. pocket, christmas, excl. LED & incandescent)",851310,Portable battery and magneto-electric lamps
+0503,Straight Tube Fluorescent Lamps,853941,Arc-lamps
+0503,Straight Tube Fluorescent Lamps,853949,Ultra-violet or infra-re
+0504,"Special Lamps (f.i. professional mercury, high & low pressure sodium)",853931,"Fluorescent lamps, hot cathode"
+0504,"Special Lamps (f.i. professional mercury, high & low pressure sodium)",853932,Mercury or sodium vapour
+0504,"Special Lamps (f.i. professional mercury, high & low pressure sodium)",853939,"Discharge lamps, other than ultra-violet lamps, nes"
+0506,Household Luminaires (incl. household incandescent fittings),851210,Lighting/signalling equipment as used on bicycles
+0506,Household Luminaires (incl. household incandescent fittings),940510,"Chandeliers, other electric ceiling or wall lights"
+0506,Household Luminaires (incl. household incandescent fittings),940520,"Electric table, desk, bedside and floor lamps"
+0506,Household Luminaires (incl. household incandescent fittings),940530,Lighting sets of a kind used for Christmas trees
+0507,"Professional Luminaires (offices, public space, industry)",940540,"Electric lamps, lighting fittings, nes"
+0601,"Household Tools (f.i. drills, saws, high pressure cleaners, lawn mowers)",846721,"Drills of all kinds, for working in the hand, with self-contained elec. mot ..."
+0601,"Household Tools (f.i. drills, saws, high pressure cleaners, lawn mowers)",846722,"Saws for working in the hand, with self-contained elec. motor"
+0601,"Household Tools (f.i. drills, saws, high pressure cleaners, lawn mowers)",846729,"Tools for working in the hand, with self-contained elec. motor (excl. drill ..."
+0601,"Household Tools (f.i. drills, saws, high pressure cleaners, lawn mowers)",850810,"Drills, hand-held, with self-contained electric motor"
+0601,"Household Tools (f.i. drills, saws, high pressure cleaners, lawn mowers)",850820,"Saws, hand-held, with self-contained electric motor"
+0601,"Household Tools (f.i. drills, saws, high pressure cleaners, lawn mowers)",850880,"Tools, hand-held, with electric motor, not drills/saw"
+0601,"Household Tools (f.i. drills, saws, high pressure cleaners, lawn mowers)",850920,Domestic floor polishers
+0601,"Household Tools (f.i. drills, saws, high pressure cleaners, lawn mowers)",851511,Electric soldering irons and guns
+0601,"Household Tools (f.i. drills, saws, high pressure cleaners, lawn mowers)",851519,"Electric brazing, soldering machines and apparatus ne"
+0601,"Household Tools (f.i. drills, saws, high pressure cleaners, lawn mowers)",851521,"Electric resistance welding equipment, automatic"
+0601,"Household Tools (f.i. drills, saws, high pressure cleaners, lawn mowers)",851529,"Electric resistance welding equipment, non-automatic"
+0601,"Household Tools (f.i. drills, saws, high pressure cleaners, lawn mowers)",851531,"Automatic electric plasma, other arc welding equipmen"
+0602,"Professional Tools (f.i. for welding, soldering, milling)",843311,"Mowers, powered, lawn, with horizontal cutting device"
+0602,"Professional Tools (f.i. for welding, soldering, milling)",843319,"Mowers, powered, lawn, nes"
+0701,"Toys (f.i. car racing sets, electric trains, music toys, biking computers)",950300,"Tricycles, scooters, pedal cars & similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size ("
+0701,"Toys (f.i. car racing sets, electric trains, music toys, biking computers)",950310,"Electric trains, train sets, etc"
+0701,"Toys (f.i. car racing sets, electric trains, music toys, biking computers)",950350,"Toy musical instruments, apparatus"
+0701,"Toys (f.i. car racing sets, electric trains, music toys, biking computers)",950490,"Articles for funfair, table and parlour games, nes"
+0702,Game Consoles,950410,Video games used with a television receiver
+0703,"Leisure (f.i. large exercise, sports equipment)",920710,Keyboard instruments electrical/requiring amplifier
+0703,"Leisure (f.i. large exercise, sports equipment)",920790,"Musical instruments nes, electric/requiring amplifier"
+0801,"Household Medical (f.i. thermometers, blood pressure meters)",902140,"Hearing aids, except parts and accessories"
+0802,"Professional Medical (f.i. hospital, dentist, diagnostics)",901811,Electro-cardiographs
+0802,"Professional Medical (f.i. hospital, dentist, diagnostics)",901812,Ultrasonic scanning appr
+0802,"Professional Medical (f.i. hospital, dentist, diagnostics)",901813,Magnetic resonance imagi
+0802,"Professional Medical (f.i. hospital, dentist, diagnostics)",901814,Scintigraphic apparatus
+0802,"Professional Medical (f.i. hospital, dentist, diagnostics)",901819,"Electro-diagnostic apparatus, nes"
+0802,"Professional Medical (f.i. hospital, dentist, diagnostics)",901841,Dental drill engines
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",853110,Burglar or fire alarms and similar apparatus
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",853180,"Electric sound or visual signalling apparatus, nes"
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",854340,Electric fence energiser
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",854370,"Other machines & apparatus for electrical machines & apparatus, other than than machines & apparatus for electroplating/ electrolysis/electrophoresis/signal generators/particle accelerators."
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",901730,"Micrometers, callipers and gauges"
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",902410,Machines for testing mechanical properties of metals
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",902480,Machines for testing mechanical properties nes
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",902519,"Thermometers, except liquid filled"
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",902580,"Hydrometer, pyrometer, hygrometer, alone or combined"
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",902610,Equipment to measure or check liquid flow or level
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",902620,Equipment to measure or check pressure
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",902680,"Equipment to measure, check gas/liquid properties nes"
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",902710,Gas/smoke analysis apparatus
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",902780,"Equipment for physical or chemical analysis, nes"
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",903020,"Cathode-ray oscilloscopes, oscillographs"
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",903033,"Other instruments & apparatus, for measuring/checking voltage, current, resistance/power, without a recording device, other than 9030.31 & 9030.32,"
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",903039,"Ammeters, voltmeters, ohm meters, etc, non-recording"
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",903089,Electrical measurement instruments nes
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",903180,"Measuring or checking equipment, nes"
+0901,"Household Monitoring & Control (alarm, heat, smoke, excl. screens)",903210,Thermostats
+0902,"Professional Monitoring & Control (f.i. laboratory, control panels)",901510,Rangefinders
+0902,"Professional Monitoring & Control (f.i. laboratory, control panels)",901520,Theodolites and tacheometers
+0902,"Professional Monitoring & Control (f.i. laboratory, control panels)",901530,Surveying levels
+0902,"Professional Monitoring & Control (f.i. laboratory, control panels)",901540,"Photogrammetrical surveying instruments, appliances"
+0902,"Professional Monitoring & Control (f.i. laboratory, control panels)",901580,"Surveying, etc instruments nes"
+1001,"Non Cooled Dispensers (f.i. for vending, hot drinks, tickets, money)",847629,Autom bev-vendng mach ne
+1001,"Non Cooled Dispensers (f.i. for vending, hot drinks, tickets, money)",847689,Automatic vending mach n
+1002,"Cooled Dispensers (f.i. for vending, cold drinks)",847621,Aut bev-vend m heat/refr
+1002,"Cooled Dispensers (f.i. for vending, cold drinks)",847681,Autom vendng mach h/refr
